@@ -1,0 +1,197 @@
+@media (min-width: 400px) {
+
+.footer-description__title{
+  max-width: 25rem;
+  margin: 0 auto 2rem auto;
+
+}
+
+.footer-pages {
+  margin-bottom: 3rem;
+  display: flex;
+  flex-wrap: wrap;
+}
+.footer-page {
+  flex-grow: 1;
+}
+
+.footer-list{
+  max-width: 15rem;
+  margin: 0 auto;
+}
+
+.footer-copyright{
+  text-align: center;
+}
+}
+
+@media (min-width: 576px) {
+.destinations__title{
+  max-width: 32rem;
+  font-size: 3rem;
+}
+.newsletter-content__title{
+max-width: none;
+}
+
+.footer-description__title{
+  max-width: none;
+}
+}
+
+@media (min-width: 768px) {
+.mobile-menu__toggle {
+  display: none;
+}
+
+.nav__menu {
+  display: flex;
+}
+
+.nav-wrapper {
+  margin: 0 auto;
+}
+
+.mobile-menu{
+  display: none;
+}
+.header-content__title{
+  font-size: 4rem;
+}
+
+.newsletter::before{
+  width: 85rem;
+  height: 85rem;
+  bottom: -20rem;
+  left: -30rem;
+}
+
+.newsletter-content__caption{
+  max-width: 42rem;
+}
+}
+
+@media (min-width: 992px) {
+.header-content__title{
+  font-size: 4.5rem;
+}  
+.header-content__caption{
+  max-width: 45rem;
+}
+.nav__actions {
+  display: block;
+}
+
+.nav-wrapper {
+  margin: 0;
+}
+
+.newsletter{
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: space-between;
+}
+.newsletter::before{
+  bottom: -25rem;
+  left: -25rem;
+}
+
+.newsletter-content{
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 50%;
+}
+
+.newsletter-banner{
+  width: 45%;
+}
+
+.newsletter-content__title{
+  margin: 0;
+}
+
+}
+
+@media (min-width: 1200px) {
+
+.newsletter{
+  padding: 3rem 5rem;
+}
+
+.newsletter::before{
+  bottom: -18rem;
+  left: -18rem;
+}
+
+.newsletter-content{
+  width: 55%;
+}
+
+.newsletter-banner{
+    width: 40%;
+}
+
+.newsletter-content__caption{
+  margin: 0.5rem 0 2.5rem 0;
+
+}
+
+.footer{
+  text-align: left;
+}
+.footer-wrapper{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.footer-description{
+  width: 53%;
+}
+.footer-pages{
+  width: 43%;
+}
+.footer-list{
+  margin: 0;
+}
+.footer-app{
+  margin-top:-5rem;
+}
+}
+
+@media (min-width: 1400px) {
+.header{
+  min-height: 100vh;
+  border-bottom-left-radius: 12rem;
+  border-bottom-right-radius: 12rem;
+}
+.header-content{
+  margin-top:10rem;
+}
+.newsletter{
+  justify-content: space-between;
+  padding: 1rem 7.5rem;
+}
+
+.newsletter::before{
+  bottom: -22rem;
+  left: -7rem;
+}
+
+.newsletter-content{
+  width: 50%;
+}
+
+.newsletter-banner{
+  width: 40%;
+}
+.footer-wrapper{
+  justify-content: space-between;
+}
+.footer-description{
+  width: 45%;
+}
+
+
+}
