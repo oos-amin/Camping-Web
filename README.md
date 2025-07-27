@@ -11,9 +11,8 @@
 ## ⚙️ تکنولوژی‌ها
 
 - HTML5  
-- CSS3 (Flexbox)  
+- CSS3 (Responsive - Flexbox )  
 - JavaScript ES6  
-- Responsive 
 - Vercel
 
 ---
