@@ -28,9 +28,7 @@
 
 ---
 
-## 📦 نصب و اجرا (در صورت نیاز توسعه)
+## 📦  اجرا (در صورت نیاز توسعه)
 
 ```bash
 git clone https://github.com/oos-amin/Camping-Web.git
-cd Camping-Web
-
