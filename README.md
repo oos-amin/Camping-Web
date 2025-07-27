@@ -6,7 +6,7 @@ A simple and fully responsive website for showcasing nature camping spots.
 
 ## 🔗 Links
 
-- 🔴 [Live Demo](https://camping-web-xi.vercel.app/)
+- 🔴 [Live Demo](https://camping-web-sandy.vercel.app/)
 - 🧠 [Source Code on GitHub](https://github.com/oos-amin/Camping-Web)
 
 ---
