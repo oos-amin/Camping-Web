@@ -1,34 +1,34 @@
-# 🚀 وبسایت گردشگری Camping Web
+# 🚀 Camping Web
 
-یک وب‌سایت ساده و ریسپانسیو برای معرفی کمپ‌های طبیعت‌گردی.  
-
----
-
-## 🔗 لینک‌ها
-
-- 🔴 [مشاهده آنلاین (Live Demo)](https://camping-web-xi.vercel.app/)
-- 🧠 [سورس‌کد در GitHub](https://github.com/oos-amin/Camping-Web)
+A simple and fully responsive website for showcasing nature camping spots.
 
 ---
 
-## ⚙️ تکنولوژی‌ها
+## 🔗 Links
+
+- 🔴 [Live Demo](https://camping-web-xi.vercel.app/)
+- 🧠 [Source Code on GitHub](https://github.com/oos-amin/Camping-Web)
+
+---
+
+## ⚙️ Technologies Used
 
 - HTML5  
-- CSS3 (Flexbox + طراحی واکنش‌گرا)  
-- JavaScript ES6  
-- Vercel برای انتشار پروژه
+- CSS3 (Flexbox + Responsive Design)  
+- JavaScript (ES6)  
+- Deployed via Vercel
 
 ---
 
-## ✨ امکانات پروژه
+## ✨ Features
 
-- ناوبری ساده و منوی اصلی
-- طراحی کاملاً ریسپانسیو برای موبایل و دسکتاپ
-- طراحی تمیز و مینیمال مناسب پروژه‌های معرفی
+- Simple navigation and main menu  
+- Fully responsive layout for both mobile and desktop  
+- Clean and minimal design suitable for project showcasing
 
 ---
 
-## 📦  اجرا (در صورت نیاز توسعه)
+## 📦 Installation (For Development)
 
 ```bash
 git clone https://github.com/oos-amin/Camping-Web.git
