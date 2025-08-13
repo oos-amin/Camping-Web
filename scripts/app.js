@@ -28,7 +28,7 @@ overlay.addEventListener('click', function () {
 
 // Escape Button
 document.addEventListener('keydown', function (event) {
-    if (event.key === 'Escape' && ) {
+    if (event.key === 'Escape') {
         overlay.style.display = 'none';
         mobileMenu.style.left = '-25rem';
         toggleBtn.classList.remove('is-open');
